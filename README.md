@@ -1,1 +1,1 @@
-# Git
+# Ejercicios de programación con Python.
